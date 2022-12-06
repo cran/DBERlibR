@@ -1,0 +1,51 @@
+id,gender,grade
+sid0001,Man,Freshman
+sid0002,Woman,Freshman
+sid0003,Non-binary,Freshman
+sid0004,Other (not male/female),Freshman
+sid0005,,Freshman
+sid0006,Man,Freshman
+sid0007,Man,Freshman
+sid0008,Man,Sophomore
+sid0009,Non-binary,Sophomore
+sid0010,Woman,Sophomore
+sid0011,Man,Sophomore
+sid0012,Man,Sophomore
+sid0013,Man,Sophomore
+sid0014,Non-binary,Sophomore
+sid0015,Non-binary,Sophomore
+sid0016,Man,Senior
+sid0017,Other (not male/female),Senior
+sid0018,Man,Senior
+sid0019,Other (not male/female),Sophomore
+sid0020,Man,Sophomore
+sid0021,Woman,Sophomore
+sid0022,Woman,Junior
+sid0023,,Junior
+sid0024,Man,Junior
+sid0025,Man,Junior
+sid0026,Other (not male/female),Freshman
+sid0027,Non-binary,Freshman
+sid0028,Man,Sophomore
+sid0029,Man,Freshman
+sid0030,Woman,Sophomore
+sid0031,Non-binary,Sophomore
+sid0032,Man,Sophomore
+sid0033,Other (not male/female),Junior
+sid0034,Man,Junior
+sid0035,Woman,Junior
+sid0036,Other (not male/female),Freshman
+sid0037,Man,Junior
+sid0038,Man,Junior
+sid0039,Other (not male/female),Junior
+sid0040,Woman,Junior
+sid0041,Woman,Senior
+sid0042,Man,Senior
+sid0043,Man,Senior
+sid0044,Other (not male/female),Senior
+sid0045,Non-binary,Junior
+sid0046,Woman,Junior
+sid0047,Woman,Junior
+sid0048,,Senior
+sid0049,Non-binary,Senior
+sid0050,Man,Senior
